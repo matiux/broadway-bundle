@@ -37,7 +37,7 @@
   ],
   "require": {
     "php": "^7.4 || ^8.0",
-    "broadway/broadway": "^2.2.1",
+    "broadway/broadway": "^2.2.1|dev-master",
     "symfony/console": "^4.4 || ^5.3 || ^6.0 || ^7.0",
     "symfony/http-kernel": "^4.4 || ^5.3 || ^6.0 || ^7.0"
   },
